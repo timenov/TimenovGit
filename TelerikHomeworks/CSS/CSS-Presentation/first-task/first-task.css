@@ -1,0 +1,12 @@
+﻿p {
+    color: rgb(89, 199, 255);
+    font-family: Calibri;
+    font-size: 22px;
+}
+p:first-letter {
+    font-family: 'Edwardian Script ITC';
+    font-size: 62px;
+}
+p:first-line{
+    font-weight: bold;
+}

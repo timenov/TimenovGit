@@ -1,0 +1,46 @@
+﻿div {
+    background-color: #595959;
+    color: white;
+    font-family: Calibri;
+    width: 300px;
+}
+
+h1{
+    font-size: 24px;
+    font-stretch: narrower;
+}
+#last-act,#resp-time,h1 {
+    color: #A4B0B0;
+}
+ 
+table tr td:first-child {
+    font-style: italic;
+}
+
+#label-name {
+    vertical-align: top;
+}
+
+#name:before {
+    content: '\25CF';
+    font-size: 20px;
+    color: rgb(113, 180, 122);
+}
+ul {
+    position: relative;
+    right: 40px;
+    float: left;
+    margin: 0 0 5px 0;
+    list-style: none;
+    margin-top: 0;
+}
+#support-status {
+    color: #F00;
+}
+a {
+    text-decoration: none;
+    color: rgb(235,225,163);
+}
+#status {
+    color: orange;
+}
