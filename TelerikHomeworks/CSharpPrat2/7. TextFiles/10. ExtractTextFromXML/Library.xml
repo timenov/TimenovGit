@@ -1,0 +1,2403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2013-07-29T14:03:39Z</date>
+	<key>Application Version</key><string>11.0.4</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/D:/iTunes/</string>
+	<key>Library Persistent ID</key><string>74737171BFA3A27A</string>
+	<key>Tracks</key>
+	<dict>
+		<key>387</key>
+		<dict>
+			<key>Track ID</key><integer>387</integer>
+			<key>Name</key><string>Candy Shop (Feat. Olivia)</string>
+			<key>Artist</key><string>50 Cent</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>WAV audio file</string>
+			<key>Size</key><integer>36886726</integer>
+			<key>Total Time</key><integer>209106</integer>
+			<key>Date Modified</key><date>2013-01-30T16:42:41Z</date>
+			<key>Date Added</key><date>2013-04-14T11:09:39Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2013-07-07T13:41:34Z</date>
+			<key>Persistent ID</key><string>ADE6BDCE118B9721</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/Music/50%20Cent/Unknown%20Album/Candy%20Shop%20(Feat.%20Olivia).wav</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>389</key>
+		<dict>
+			<key>Track ID</key><integer>389</integer>
+			<key>Name</key><string>Dont Make Me</string>
+			<key>Artist</key><string>50 Cent</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3190241</integer>
+			<key>Total Time</key><integer>132623</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2013-04-16T08:42:11Z</date>
+			<key>Date Added</key><date>2013-04-14T11:09:39Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3456060230</integer>
+			<key>Play Date UTC</key><date>2013-07-07T13:43:50Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C516750E2A8F69BE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/Music/50%20Cent/Unknown%20Album/01%20Dont%20Make%20Me.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>391</key>
+		<dict>
+			<key>Track ID</key><integer>391</integer>
+			<key>Name</key><string>I'll Whip Ya Head Boy</string>
+			<key>Artist</key><string>50 Cent</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>WAV audio file</string>
+			<key>Size</key><integer>41701294</integer>
+			<key>Total Time</key><integer>236400</integer>
+			<key>Date Modified</key><date>2013-01-30T15:54:25Z</date>
+			<key>Date Added</key><date>2013-04-14T11:09:39Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3455951320</integer>
+			<key>Play Date UTC</key><date>2013-07-06T07:28:40Z</date>
+			<key>Persistent ID</key><string>A59E2E19DA040CD6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/Music/50%20Cent/Unknown%20Album/I'll%20Whip%20Ya%20Head%20Boy.wav</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>393</key>
+		<dict>
+			<key>Track ID</key><integer>393</integer>
+			<key>Name</key><string>Just A Lil Bit</string>
+			<key>Artist</key><string>50 Cent</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>WAV audio file</string>
+			<key>Size</key><integer>41931750</integer>
+			<key>Total Time</key><integer>237706</integer>
+			<key>Date Modified</key><date>2013-01-30T16:42:58Z</date>
+			<key>Date Added</key><date>2013-04-14T11:09:39Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2013-07-07T13:37:12Z</date>
+			<key>Persistent ID</key><string>38A8EE7561C90F6E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/Music/50%20Cent/Unknown%20Album/Just%20A%20Lil%20Bit.wav</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>395</key>
+		<dict>
+			<key>Track ID</key><integer>395</integer>
+			<key>Name</key><string>Piggy Bank</string>
+			<key>Artist</key><string>50 Cent</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>WAV audio file</string>
+			<key>Size</key><integer>45012864</integer>
+			<key>Total Time</key><integer>255173</integer>
+			<key>Date Modified</key><date>2013-01-30T16:42:33Z</date>
+			<key>Date Added</key><date>2013-04-14T11:09:39Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>41C05AF20E46A09F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/Music/50%20Cent/Unknown%20Album/Piggy%20Bank.wav</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>397</key>
+		<dict>
+			<key>Track ID</key><integer>397</integer>
+			<key>Name</key><string>You Dont Know [ft 50 Cent &#38; Cashis &#38; Lloyd Banks]</string>
+			<key>Artist</key><string>Eminem</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5283968</integer>
+			<key>Total Time</key><integer>264097</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Date Modified</key><date>2013-04-16T08:36:28Z</date>
+			<key>Date Added</key><date>2013-04-14T11:09:39Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>2BD7F27268C3D30E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/Music/Eminem/Unknown%20Album/01%20You%20Dont%20Know%20%5Bft%2050%20Cent%20&#38;%20Cashi.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>399</key>
+		<dict>
+			<key>Track ID</key><integer>399</integer>
+			<key>Name</key><string>In My Heart (Original mix)</string>
+			<key>Artist</key><string>Ethan</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11133056</integer>
+			<key>Total Time</key><integer>464509</integer>
+			<key>Date Modified</key><date>2013-03-02T10:38:29Z</date>
+			<key>Date Added</key><date>2013-04-14T11:09:39Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3455953613</integer>
+			<key>Play Date UTC</key><date>2013-07-06T08:06:53Z</date>
+			<key>Persistent ID</key><string>7F493C610F21421A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/Music/Ethan/Unknown%20Album/In%20My%20Heart%20(Original%20mix).mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>401</key>
+		<dict>
+			<key>Track ID</key><integer>401</integer>
+			<key>Name</key><string>Drifting Away (Paridiso Mix)</string>
+			<key>Artist</key><string>Faithless</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10645228</integer>
+			<key>Total Time</key><integer>406386</integer>
+			<key>Date Modified</key><date>2012-02-07T11:08:26Z</date>
+			<key>Date Added</key><date>2013-04-14T11:09:39Z</date>
+			<key>Bit Rate</key><integer>209</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3455951083</integer>
+			<key>Play Date UTC</key><date>2013-07-06T07:24:43Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2013-07-07T13:41:31Z</date>
+			<key>Persistent ID</key><string>26CCB8280B1F6C36</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/Music/Faithless/Unknown%20Album/Drifting%20Away%20(Paridiso%20Mix).mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>403</key>
+		<dict>
+			<key>Track ID</key><integer>403</integer>
+			<key>Name</key><string>Hot, Black &#38; Strong  (Extended Mix)</string>
+			<key>Artist</key><string>House Factory</string>
+			<key>Genre</key><string>House</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9441280</integer>
+			<key>Total Time</key><integer>393299</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2013-04-14T11:11:50Z</date>
+			<key>Date Added</key><date>2013-04-14T11:09:39Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2013-07-07T13:41:27Z</date>
+			<key>Persistent ID</key><string>F0CCFA8D259C2FF3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/Music/House%20Factory/Unknown%20Album/Hot,%20Black%20&#38;%20Strong%20%20(Extended%20Mix).mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>405</key>
+		<dict>
+			<key>Track ID</key><integer>405</integer>
+			<key>Name</key><string>Is It Love? [Radio Mix]</string>
+			<key>Artist</key><string>Iio</string>
+			<key>Genre</key><string>House</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7611180</integer>
+			<key>Total Time</key><integer>189910</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2013-04-14T11:11:26Z</date>
+			<key>Date Added</key><date>2013-04-14T11:09:39Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3455951510</integer>
+			<key>Play Date UTC</key><date>2013-07-06T07:31:50Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>26F33B1511B0201C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/Music/Iio/Unknown%20Album/Is%20It%20Love_%20%5BRadio%20Mix%5D.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>407</key>
+		<dict>
+			<key>Track ID</key><integer>407</integer>
+			<key>Name</key><string>John [ft Rick Ross]</string>
+			<key>Artist</key><string>Lil Wayne</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>12041278</integer>
+			<key>Total Time</key><integer>300773</integer>
+			<key>Date Modified</key><date>2013-04-16T08:38:16Z</date>
+			<key>Date Added</key><date>2013-04-14T11:09:39Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3448986548</integer>
+			<key>Play Date UTC</key><date>2013-04-16T16:49:08Z</date>
+			<key>Persistent ID</key><string>956960CFFA9F7726</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/Music/Lil%20Wayne/Unknown%20Album/John%20%5Bft%20Rick%20Ross%5D.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>409</key>
+		<dict>
+			<key>Track ID</key><integer>409</integer>
+			<key>Name</key><string>King Carter</string>
+			<key>Artist</key><string>Lil Wayne</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5753027</integer>
+			<key>Total Time</key><integer>179448</integer>
+			<key>Date Modified</key><date>2013-04-14T11:27:35Z</date>
+			<key>Date Added</key><date>2013-04-14T11:09:39Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3456145973</integer>
+			<key>Play Date UTC</key><date>2013-07-08T13:32:53Z</date>
+			<key>Persistent ID</key><string>8C23107D9D6A03EB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/Music/Lil%20Wayne/Unknown%20Album/King%20Carter.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>411</key>
+		<dict>
+			<key>Track ID</key><integer>411</integer>
+			<key>Name</key><string>Lollipop (Dirty)</string>
+			<key>Artist</key><string>Lil Wayne</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6677933</integer>
+			<key>Total Time</key><integer>301923</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2013-04-14T11:12:05Z</date>
+			<key>Date Added</key><date>2013-04-14T11:09:39Z</date>
+			<key>Bit Rate</key><integer>176</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3456145786</integer>
+			<key>Play Date UTC</key><date>2013-07-08T13:29:46Z</date>
+			<key>Persistent ID</key><string>4912445564940D72</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/Music/Lil%20Wayne/Unknown%20Album/11%20Lollipop%20(Dirty).mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>413</key>
+		<dict>
+			<key>Track ID</key><integer>413</integer>
+			<key>Name</key><string>Stuntin Like My Daddy [ft. Birdman]</string>
+			<key>Artist</key><string>Lil Wayne</string>
+			<key>Genre</key><string>Rap</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7701166</integer>
+			<key>Total Time</key><integer>267258</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>100</integer>
+			<key>Date Modified</key><date>2013-04-16T08:38:33Z</date>
+			<key>Date Added</key><date>2013-04-14T11:09:39Z</date>
+			<key>Bit Rate</key><integer>222</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E0AC943EF159C5D4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/Music/Lil%20Wayne/Unknown%20Album/12%20Stuntin%20Like%20My%20Daddy%20%5Bft.%20Birdma.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>415</key>
+		<dict>
+			<key>Track ID</key><integer>415</integer>
+			<key>Name</key><string>How Low Can You [feat. Shawnna]</string>
+			<key>Artist</key><string>Ludacris</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5028842</integer>
+			<key>Total Time</key><integer>209449</integer>
+			<key>Date Modified</key><date>2013-04-16T08:37:58Z</date>
+			<key>Date Added</key><date>2013-04-14T11:09:39Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2013-07-07T13:41:37Z</date>
+			<key>Persistent ID</key><string>8D9687EFFDC42668</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/Music/Ludacris/Unknown%20Album/How%20Low%20Can%20You%20%5Bfeat.%20Shawnna%5D.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>417</key>
+		<dict>
+			<key>Track ID</key><integer>417</integer>
+			<key>Name</key><string>Pussy Poppin' [feat. Shawnna, Lil' Fate]</string>
+			<key>Artist</key><string>Ludacris</string>
+			<key>Genre</key><string>Rap &#38; Hip Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11564948</integer>
+			<key>Total Time</key><integer>289253</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2013-04-16T08:37:39Z</date>
+			<key>Date Added</key><date>2013-04-14T11:09:39Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3456062235</integer>
+			<key>Play Date UTC</key><date>2013-07-07T14:17:15Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2013-07-06T07:58:16Z</date>
+			<key>Persistent ID</key><string>A61EF3A7AA3F4FA2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/Music/Ludacris/Unknown%20Album/10%20Pussy%20Poppin'%20%5Bfeat.%20Shawnna,%20Lil.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>419</key>
+		<dict>
+			<key>Track ID</key><integer>419</integer>
+			<key>Name</key><string>Breadfan</string>
+			<key>Artist</key><string>Metallica</string>
+			<key>Kind</key><string>WAV audio file</string>
+			<key>Size</key><integer>60199700</integer>
+			<key>Total Time</key><integer>341266</integer>
+			<key>Date Modified</key><date>2013-01-22T15:59:43Z</date>
+			<key>Date Added</key><date>2013-04-14T11:09:39Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>0D879850BAA56D68</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/Music/Metallica/Unknown%20Album/Breadfan.wav</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>421</key>
+		<dict>
+			<key>Track ID</key><integer>421</integer>
+			<key>Name</key><string>Die, Die My Darling</string>
+			<key>Artist</key><string>Metallica</string>
+			<key>Kind</key><string>WAV audio file</string>
+			<key>Size</key><integer>26342638</integer>
+			<key>Total Time</key><integer>149333</integer>
+			<key>Date Modified</key><date>2013-01-22T16:13:40Z</date>
+			<key>Date Added</key><date>2013-04-14T11:09:39Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3448794518</integer>
+			<key>Play Date UTC</key><date>2013-04-14T11:28:38Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2013-04-16T16:49:13Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>3C9462D7D5BE70D1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/Music/Unknown%20Artist/Unknown%20Album/Metallica%20-%20Die,%20Die%20My%20Darling.wav</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>423</key>
+		<dict>
+			<key>Track ID</key><integer>423</integer>
+			<key>Name</key><string>For Whom The Bell Tolls</string>
+			<key>Artist</key><string>Metallica</string>
+			<key>Genre</key><string>Industrial</string>
+			<key>Kind</key><string>WAV audio file</string>
+			<key>Size</key><integer>55131116</integer>
+			<key>Total Time</key><integer>312533</integer>
+			<key>Date Modified</key><date>2012-12-02T17:14:23Z</date>
+			<key>Date Added</key><date>2013-04-14T11:09:39Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>973CC38E37C8B166</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/Music/Metallica/Unknown%20Album/For%20Whom%20The%20Bell%20Tolls.wav</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>425</key>
+		<dict>
+			<key>Track ID</key><integer>425</integer>
+			<key>Name</key><string>The Wait</string>
+			<key>Artist</key><string>Metallica</string>
+			<key>Genre</key><string>Industrial</string>
+			<key>Kind</key><string>WAV audio file</string>
+			<key>Size</key><integer>52085300</integer>
+			<key>Total Time</key><integer>295266</integer>
+			<key>Date Modified</key><date>2013-01-22T15:59:28Z</date>
+			<key>Date Added</key><date>2013-04-14T11:09:39Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Sort Name</key><string>Wait</string>
+			<key>Persistent ID</key><string>9E4AD49736D6918A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/Music/Metallica/Unknown%20Album/The%20Wait.wav</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>427</key>
+		<dict>
+			<key>Track ID</key><integer>427</integer>
+			<key>Name</key><string>Extreme Ways</string>
+			<key>Artist</key><string>Moby</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5251621</integer>
+			<key>Total Time</key><integer>262373</integer>
+			<key>Date Modified</key><date>2013-04-14T11:12:33Z</date>
+			<key>Date Added</key><date>2013-04-14T11:09:39Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>40</integer>
+			<key>Album Rating</key><integer>40</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>56A8334B726CFF74</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/Music/Moby/Unknown%20Album/Extreme%20Ways.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>429</key>
+		<dict>
+			<key>Track ID</key><integer>429</integer>
+			<key>Name</key><string>Boom</string>
+			<key>Artist</key><string>Nelly</string>
+			<key>Genre</key><string>Rap</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5639776</integer>
+			<key>Total Time</key><integer>234814</integer>
+			<key>Date Modified</key><date>2013-04-14T11:13:02Z</date>
+			<key>Date Added</key><date>2013-04-14T11:09:39Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2013-07-06T06:57:23Z</date>
+			<key>Persistent ID</key><string>4C81F8CE029C43AA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/Music/Nelly/Unknown%20Album/Boom.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>431</key>
+		<dict>
+			<key>Track ID</key><integer>431</integer>
+			<key>Name</key><string>Chill [Ft. St. Lunatics]</string>
+			<key>Artist</key><string>Nelly</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>13709104</integer>
+			<key>Total Time</key><integer>342622</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2013-04-14T11:12:48Z</date>
+			<key>Date Added</key><date>2013-04-14T11:09:39Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>B2E6BDDC6E78C174</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/Music/Nelly/Unknown%20Album/12%20Chill%20%5BFt.%20St.%20Lunatics%5D.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>433</key>
+		<dict>
+			<key>Track ID</key><integer>433</integer>
+			<key>Name</key><string>The Tip Drill</string>
+			<key>Artist</key><string>Nelly</string>
+			<key>Composer</key><string>Lavell "David Banner" Crump/Nelly</string>
+			<key>Genre</key><string>Rap</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7279734</integer>
+			<key>Total Time</key><integer>303124</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2013-04-14T11:12:55Z</date>
+			<key>Date Added</key><date>2013-04-14T11:09:39Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3455890752</integer>
+			<key>Play Date UTC</key><date>2013-07-05T14:39:12Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2013-07-06T07:09:33Z</date>
+			<key>Sort Name</key><string>Tip Drill</string>
+			<key>Persistent ID</key><string>996B459164B54C1E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/Music/Nelly/Unknown%20Album/04%20The%20Tip%20Drill.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>435</key>
+		<dict>
+			<key>Track ID</key><integer>435</integer>
+			<key>Name</key><string>U Ain't Him [Ft. Rick Ross]</string>
+			<key>Artist</key><string>Nelly</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7828024</integer>
+			<key>Total Time</key><integer>195604</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2013-04-14T11:12:39Z</date>
+			<key>Date Added</key><date>2013-04-14T11:09:39Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3456060989</integer>
+			<key>Play Date UTC</key><date>2013-07-07T13:56:29Z</date>
+			<key>Persistent ID</key><string>69855EEF18E595AD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/Music/Nelly/Unknown%20Album/01%20U%20Ain't%20Him%20%5BFt.%20Rick%20Ross%5D.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>437</key>
+		<dict>
+			<key>Track ID</key><integer>437</integer>
+			<key>Name</key><string>Party People [Feat. Fergie]</string>
+			<key>Artist</key><string>Nelly</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>WAV audio file</string>
+			<key>Size</key><integer>42724350</integer>
+			<key>Total Time</key><integer>242200</integer>
+			<key>Date Modified</key><date>2013-01-30T16:22:48Z</date>
+			<key>Date Added</key><date>2013-04-14T11:09:39Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2013-07-06T07:40:24Z</date>
+			<key>Persistent ID</key><string>44DB1242405950E4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/Music/Nelly/Unknown%20Album/Party%20People%20%5BFeat.%20Fergie%5D.wav</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>439</key>
+		<dict>
+			<key>Track ID</key><integer>439</integer>
+			<key>Name</key><string>Step On My Jays [Feat. Jermaine Dupri &#38; Ciara]</string>
+			<key>Artist</key><string>Nelly</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5607424</integer>
+			<key>Total Time</key><integer>280320</integer>
+			<key>Date Modified</key><date>2013-04-16T08:39:42Z</date>
+			<key>Date Added</key><date>2013-04-14T11:09:39Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3456146254</integer>
+			<key>Play Date UTC</key><date>2013-07-08T13:37:34Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2013-07-05T14:46:12Z</date>
+			<key>Persistent ID</key><string>B1D0715A70836123</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/Music/Nelly/Unknown%20Album/Step%20On%20My%20Jays%20%5BFeat.%20Jermaine%20Dupr.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>441</key>
+		<dict>
+			<key>Track ID</key><integer>441</integer>
+			<key>Name</key><string>Grillz [Feat. Paul Wall, Ali &#38; Gipp]</string>
+			<key>Artist</key><string>Nelly</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>WAV audio file</string>
+			<key>Size</key><integer>47844662</integer>
+			<key>Total Time</key><integer>271226</integer>
+			<key>Date Modified</key><date>2013-01-30T16:22:13Z</date>
+			<key>Date Added</key><date>2013-04-14T11:09:39Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3449033603</integer>
+			<key>Play Date UTC</key><date>2013-04-17T05:53:23Z</date>
+			<key>Persistent ID</key><string>BF0F5D0896BD5050</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/Music/Nelly/Unknown%20Album/Grillz%20%5BFeat.%20Paul%20Wall,%20Ali%20&#38;%20Gipp%5D.wav</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>443</key>
+		<dict>
+			<key>Track ID</key><integer>443</integer>
+			<key>Name</key><string>The A La Menthe</string>
+			<key>Artist</key><string>Nikkfurie</string>
+			<key>Genre</key><string>Other</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6486834</integer>
+			<key>Total Time</key><integer>270236</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2013-04-14T11:13:15Z</date>
+			<key>Date Added</key><date>2013-04-14T11:09:39Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Sort Name</key><string>A La Menthe</string>
+			<key>Persistent ID</key><string>E988B86F8347172F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/Music/Nikkfurie/Unknown%20Album/The%20A%20La%20Menthe.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>445</key>
+		<dict>
+			<key>Track ID</key><integer>445</integer>
+			<key>Name</key><string>Sinnerman(Felix Da Housecat Heavenly House Remix)</string>
+			<key>Artist</key><string>Nina Simone</string>
+			<key>Genre</key><string>Other</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8822838</integer>
+			<key>Total Time</key><integer>275565</integer>
+			<key>Date Modified</key><date>2007-11-23T14:37:34Z</date>
+			<key>Date Added</key><date>2013-04-14T11:09:39Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3455949409</integer>
+			<key>Play Date UTC</key><date>2013-07-06T06:56:49Z</date>
+			<key>Persistent ID</key><string>9B169189F715D936</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/Music/Nina%20Simone/Unknown%20Album/Sinnerman(Felix%20Da%20Housecat%20Heavenly.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>447</key>
+		<dict>
+			<key>Track ID</key><integer>447</integer>
+			<key>Name</key><string>Was wollen wir trinken</string>
+			<key>Artist</key><string>Onkel Tom Angelripper</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7489536</integer>
+			<key>Total Time</key><integer>312032</integer>
+			<key>Date Modified</key><date>2013-04-14T11:13:21Z</date>
+			<key>Date Added</key><date>2013-04-14T11:09:39Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>2172AEC72838CF6D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/Music/Onkel%20Tom%20Angelripper/Unknown%20Album/Was%20wollen%20wir%20trinken.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>449</key>
+		<dict>
+			<key>Track ID</key><integer>449</integer>
+			<key>Name</key><string>Another Day In Paradise</string>
+			<key>Artist</key><string>Phil Collins</string>
+			<key>Genre</key><string>Lifestyle</string>
+			<key>Kind</key><string>WAV audio file</string>
+			<key>Size</key><integer>56770482</integer>
+			<key>Total Time</key><integer>321826</integer>
+			<key>Date Modified</key><date>2012-12-02T16:56:08Z</date>
+			<key>Date Added</key><date>2013-04-14T11:09:39Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3455948884</integer>
+			<key>Play Date UTC</key><date>2013-07-06T06:48:04Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2013-07-08T13:29:52Z</date>
+			<key>Persistent ID</key><string>765462E7F2A7B8F6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/Music/Phil%20Collins/Unknown%20Album/Another%20Day%20In%20Paradise.wav</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>451</key>
+		<dict>
+			<key>Track ID</key><integer>451</integer>
+			<key>Name</key><string>In The Air Tonight</string>
+			<key>Artist</key><string>Phil Collins</string>
+			<key>Genre</key><string>Lifestyle</string>
+			<key>Kind</key><string>WAV audio file</string>
+			<key>Size</key><integer>57212654</integer>
+			<key>Total Time</key><integer>324333</integer>
+			<key>Date Modified</key><date>2012-12-02T16:55:20Z</date>
+			<key>Date Added</key><date>2013-04-14T11:09:39Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3456058735</integer>
+			<key>Play Date UTC</key><date>2013-07-07T13:18:55Z</date>
+			<key>Persistent ID</key><string>0E7C528F044F4618</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/Music/Phil%20Collins/Unknown%20Album/In%20The%20Air%20Tonight.wav</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>453</key>
+		<dict>
+			<key>Track ID</key><integer>453</integer>
+			<key>Name</key><string>Du Riechst So Gut</string>
+			<key>Artist</key><string>Rammstein</string>
+			<key>Genre</key><string>Industrial</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11622798</integer>
+			<key>Total Time</key><integer>289097</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2013-04-14T11:13:29Z</date>
+			<key>Date Added</key><date>2013-04-14T11:09:39Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3456061530</integer>
+			<key>Play Date UTC</key><date>2013-07-07T14:05:30Z</date>
+			<key>Persistent ID</key><string>13CB3F75D4C3ED61</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/Music/Rammstein/Unknown%20Album/04%20Du%20Riechst%20So%20Gut.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>455</key>
+		<dict>
+			<key>Track ID</key><integer>455</integer>
+			<key>Name</key><string>Feuer Frei!</string>
+			<key>Artist</key><string>Rammstein</string>
+			<key>Genre</key><string>Industrial</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7692542</integer>
+			<key>Total Time</key><integer>191346</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2013-04-16T08:40:32Z</date>
+			<key>Date Added</key><date>2013-04-14T11:09:39Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>38AB8BC5147315BF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/Music/Rammstein/Unknown%20Album/09%20Feuer%20Frei!.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>457</key>
+		<dict>
+			<key>Track ID</key><integer>457</integer>
+			<key>Name</key><string>Hitler</string>
+			<key>Artist</key><string>Rammstein</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4536448</integer>
+			<key>Total Time</key><integer>283428</integer>
+			<key>Date Modified</key><date>2010-05-28T07:49:34Z</date>
+			<key>Date Added</key><date>2013-04-14T11:09:39Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>1DC1CE50E5AF3279</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/Music/Rammstein/Unknown%20Album/Hitler.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>459</key>
+		<dict>
+			<key>Track ID</key><integer>459</integer>
+			<key>Name</key><string>Ich Will</string>
+			<key>Artist</key><string>Rammstein</string>
+			<key>Genre</key><string>Industrial</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8744769</integer>
+			<key>Total Time</key><integer>217495</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2013-04-16T08:40:10Z</date>
+			<key>Date Added</key><date>2013-04-14T11:09:39Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3455953092</integer>
+			<key>Play Date UTC</key><date>2013-07-06T07:58:12Z</date>
+			<key>Persistent ID</key><string>AEB8D43549323BBE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/Music/Rammstein/Unknown%20Album/08%20Ich%20Will.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>461</key>
+		<dict>
+			<key>Track ID</key><integer>461</integer>
+			<key>Name</key><string>Links 2 3 4</string>
+			<key>Artist</key><string>Rammstein</string>
+			<key>Genre</key><string>Industrial</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8710151</integer>
+			<key>Total Time</key><integer>216633</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2013-04-14T11:13:38Z</date>
+			<key>Date Added</key><date>2013-04-14T11:09:39Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2013-07-07T14:00:40Z</date>
+			<key>Persistent ID</key><string>D5841932714BC490</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/Music/Rammstein/Unknown%20Album/06%20Links%202%203%204.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>463</key>
+		<dict>
+			<key>Track ID</key><integer>463</integer>
+			<key>Name</key><string>Mein Herz Brennt</string>
+			<key>Artist</key><string>Rammstein</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4475890</integer>
+			<key>Total Time</key><integer>279719</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2013-04-16T08:40:23Z</date>
+			<key>Date Added</key><date>2013-04-14T11:09:39Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>BDA570541740913A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/Music/Rammstein/Unknown%20Album/Mein%20Herz%20Brennt.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>465</key>
+		<dict>
+			<key>Track ID</key><integer>465</integer>
+			<key>Name</key><string>Mein Land</string>
+			<key>Artist</key><string>Rammstein</string>
+			<key>Genre</key><string>Industrial</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6689235</integer>
+			<key>Total Time</key><integer>278282</integer>
+			<key>Date Modified</key><date>2013-04-14T11:30:37Z</date>
+			<key>Date Added</key><date>2013-04-14T11:09:39Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3456059590</integer>
+			<key>Play Date UTC</key><date>2013-07-07T13:33:10Z</date>
+			<key>Persistent ID</key><string>B1498EA75B275B60</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/Music/Rammstein/Unknown%20Album/Mein%20Land.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>467</key>
+		<dict>
+			<key>Track ID</key><integer>467</integer>
+			<key>Name</key><string>Mein Teil</string>
+			<key>Artist</key><string>Rammstein</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8536839</integer>
+			<key>Total Time</key><integer>272457</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2013-04-16T08:40:20Z</date>
+			<key>Date Added</key><date>2013-04-14T11:09:39Z</date>
+			<key>Bit Rate</key><integer>250</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>DCD8C53E150D74A8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/Music/Rammstein/Unknown%20Album/02%20Mein%20Teil.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>469</key>
+		<dict>
+			<key>Track ID</key><integer>469</integer>
+			<key>Name</key><string>Rosenrot</string>
+			<key>Artist</key><string>Rammstein</string>
+			<key>Genre</key><string>Industrial</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9431139</integer>
+			<key>Total Time</key><integer>234579</integer>
+			<key>Track Number</key><integer>17</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2013-04-16T08:40:35Z</date>
+			<key>Date Added</key><date>2013-04-14T11:09:39Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3456060793</integer>
+			<key>Play Date UTC</key><date>2013-07-07T13:53:13Z</date>
+			<key>Persistent ID</key><string>D213D4E01F103994</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/Music/Rammstein/Unknown%20Album/17%20Rosenrot.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>471</key>
+		<dict>
+			<key>Track ID</key><integer>471</integer>
+			<key>Name</key><string>Sonne</string>
+			<key>Artist</key><string>Rammstein</string>
+			<key>Genre</key><string>Industrial</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10969095</integer>
+			<key>Total Time</key><integer>272822</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2013-04-14T11:13:49Z</date>
+			<key>Date Added</key><date>2013-04-14T11:09:39Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>3D9831FA815BB01C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/Music/Rammstein/Unknown%20Album/Sonne.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>473</key>
+		<dict>
+			<key>Track ID</key><integer>473</integer>
+			<key>Name</key><string>Stein Um Stein</string>
+			<key>Artist</key><string>Rammstein</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7045283</integer>
+			<key>Total Time</key><integer>236355</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2013-04-16T08:40:43Z</date>
+			<key>Date Added</key><date>2013-04-14T11:09:39Z</date>
+			<key>Bit Rate</key><integer>238</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3456059826</integer>
+			<key>Play Date UTC</key><date>2013-07-07T13:37:06Z</date>
+			<key>Persistent ID</key><string>D3B49FAA8D37B4F1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/Music/Rammstein/Unknown%20Album/09%20Stein%20Um%20Stein.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>475</key>
+		<dict>
+			<key>Track ID</key><integer>475</integer>
+			<key>Name</key><string>Land Of The Lost</string>
+			<key>Artist</key><string>Three 6 Mafia</string>
+			<key>Genre</key><string>Rap</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5648384</integer>
+			<key>Total Time</key><integer>235258</integer>
+			<key>Track Number</key><integer>21</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2013-04-14T11:14:32Z</date>
+			<key>Date Added</key><date>2013-04-14T11:09:39Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Whiskas Forever</string>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2013-07-05T14:46:37Z</date>
+			<key>Persistent ID</key><string>6886C7CA39940832</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/Music/Three%206%20Mafia/Unknown%20Album/21%20Land%20Of%20The%20Lost.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>477</key>
+		<dict>
+			<key>Track ID</key><integer>477</integer>
+			<key>Name</key><string>Late Night Tip</string>
+			<key>Artist</key><string>Three 6 Mafia</string>
+			<key>Genre</key><string>Rap</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5070848</integer>
+			<key>Total Time</key><integer>316786</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Date Modified</key><date>2013-04-14T12:58:18Z</date>
+			<key>Date Added</key><date>2013-04-14T11:09:39Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>1907AAB753DAD481</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/Music/Three%206%20Mafia/Unknown%20Album/04%20Late%20Night%20Tip.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>479</key>
+		<dict>
+			<key>Track ID</key><integer>479</integer>
+			<key>Name</key><string>Who Run It</string>
+			<key>Artist</key><string>Three 6 Mafia</string>
+			<key>Genre</key><string>Rap</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5981350</integer>
+			<key>Total Time</key><integer>249208</integer>
+			<key>Track Number</key><integer>20</integer>
+			<key>Date Modified</key><date>2013-04-14T12:58:09Z</date>
+			<key>Date Added</key><date>2013-04-14T11:09:39Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3455949134</integer>
+			<key>Play Date UTC</key><date>2013-07-06T06:52:14Z</date>
+			<key>Persistent ID</key><string>0DA09F7B771859E1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/Music/Three%206%20Mafia/Unknown%20Album/20%20Who%20Run%20It.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>481</key>
+		<dict>
+			<key>Track ID</key><integer>481</integer>
+			<key>Name</key><string>Summer Wine</string>
+			<key>Artist</key><string>Ville Valo</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5599232</integer>
+			<key>Total Time</key><integer>233247</integer>
+			<key>Track Number</key><integer>21</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2013-04-14T11:14:46Z</date>
+			<key>Date Added</key><date>2013-04-14T11:09:39Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>3222CD19C05726DF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/Music/Ville%20Valo/Unknown%20Album/21%20Summer%20Wine.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>483</key>
+		<dict>
+			<key>Track ID</key><integer>483</integer>
+			<key>Name</key><string>Hot Summer Night</string>
+			<key>Artist</key><string>David Tavare feat. 2Eivissa</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5156864</integer>
+			<key>Total Time</key><integer>189361</integer>
+			<key>Date Modified</key><date>2013-04-14T11:23:04Z</date>
+			<key>Date Added</key><date>2013-04-14T11:32:25Z</date>
+			<key>Bit Rate</key><integer>217</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2013-07-07T13:41:24Z</date>
+			<key>Persistent ID</key><string>8A95FEE5817CBBDD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/Music/David%20Tavare%20feat.%202Eivissa/Unknown%20Album/Hot%20Summer%20Night.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>485</key>
+		<dict>
+			<key>Track ID</key><integer>485</integer>
+			<key>Name</key><string>Crime Wave</string>
+			<key>Artist</key><string>50 Cent</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>WAV audio file</string>
+			<key>Size</key><integer>39666526</integer>
+			<key>Total Time</key><integer>224866</integer>
+			<key>Date Modified</key><date>2013-04-14T11:39:28Z</date>
+			<key>Date Added</key><date>2013-04-14T11:50:25Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>2081647EAACFFD7B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/Music/50%20Cent/Unknown%20Album/Crime%20Wave.wav</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>487</key>
+		<dict>
+			<key>Track ID</key><integer>487</integer>
+			<key>Name</key><string>Ok, You're Right</string>
+			<key>Artist</key><string>50 Cent</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>WAV audio file</string>
+			<key>Size</key><integer>32603470</integer>
+			<key>Total Time</key><integer>184826</integer>
+			<key>Date Modified</key><date>2013-04-14T11:39:30Z</date>
+			<key>Date Added</key><date>2013-04-14T11:50:25Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2013-07-05T14:46:04Z</date>
+			<key>Persistent ID</key><string>3BD6E1518750FE91</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/Music/50%20Cent/Unknown%20Album/Ok,%20You're%20Right.wav</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>489</key>
+		<dict>
+			<key>Track ID</key><integer>489</integer>
+			<key>Name</key><string>Beautiful</string>
+			<key>Artist</key><string>Eminem</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>WAV audio file</string>
+			<key>Size</key><integer>69294670</integer>
+			<key>Total Time</key><integer>392826</integer>
+			<key>Date Modified</key><date>2013-04-14T11:39:40Z</date>
+			<key>Date Added</key><date>2013-04-14T11:50:25Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3455952842</integer>
+			<key>Play Date UTC</key><date>2013-07-06T07:54:02Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2013-07-05T14:46:25Z</date>
+			<key>Persistent ID</key><string>66D218954417AD2F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/Music/Eminem/Unknown%20Album/Beautiful.wav</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>491</key>
+		<dict>
+			<key>Track ID</key><integer>491</integer>
+			<key>Name</key><string>Lose Yourself</string>
+			<key>Artist</key><string>Eminem</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>WAV audio file</string>
+			<key>Size</key><integer>57588766</integer>
+			<key>Total Time</key><integer>326466</integer>
+			<key>Date Modified</key><date>2013-04-14T11:39:46Z</date>
+			<key>Date Added</key><date>2013-04-14T11:50:25Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2013-07-05T14:34:09Z</date>
+			<key>Persistent ID</key><string>7B7ECDD4DDAAF113</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/Music/Eminem/Unknown%20Album/Lose%20Yourself.wav</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>493</key>
+		<dict>
+			<key>Track ID</key><integer>493</integer>
+			<key>Name</key><string>Superman</string>
+			<key>Artist</key><string>Eminem</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>WAV audio file</string>
+			<key>Size</key><integer>61751806</integer>
+			<key>Total Time</key><integer>350066</integer>
+			<key>Date Modified</key><date>2013-04-14T11:39:52Z</date>
+			<key>Date Added</key><date>2013-04-14T11:50:25Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>AB84AD80B528330A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/Music/Eminem/Unknown%20Album/Superman.wav</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>495</key>
+		<dict>
+			<key>Track ID</key><integer>495</integer>
+			<key>Name</key><string>No Love [ft. Lil Wayne]</string>
+			<key>Artist</key><string>Eminem</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>WAV audio file</string>
+			<key>Size</key><integer>52833022</integer>
+			<key>Total Time</key><integer>299506</integer>
+			<key>Date Modified</key><date>2013-04-14T11:39:56Z</date>
+			<key>Date Added</key><date>2013-04-14T11:50:25Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>2E43AA0FA86C1776</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/Music/Eminem/Unknown%20Album/No%20Love%20%5Bft.%20Lil%20Wayne%5D.wav</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>497</key>
+		<dict>
+			<key>Track ID</key><integer>497</integer>
+			<key>Name</key><string>I Disappear</string>
+			<key>Artist</key><string>Metallica</string>
+			<key>Genre</key><string>Industrial</string>
+			<key>Kind</key><string>WAV audio file</string>
+			<key>Size</key><integer>46612526</integer>
+			<key>Total Time</key><integer>264243</integer>
+			<key>Date Modified</key><date>2013-04-14T11:39:58Z</date>
+			<key>Date Added</key><date>2013-04-14T11:50:25Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3452518695</integer>
+			<key>Play Date UTC</key><date>2013-05-27T13:58:15Z</date>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>0DF41BE6C2430459</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/Music/Metallica/Unknown%20Album/I%20Disappear.wav</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>499</key>
+		<dict>
+			<key>Track ID</key><integer>499</integer>
+			<key>Name</key><string>Until It Sleeps</string>
+			<key>Artist</key><string>Metallica</string>
+			<key>Genre</key><string>Industrial</string>
+			<key>Kind</key><string>WAV audio file</string>
+			<key>Size</key><integer>47628334</integer>
+			<key>Total Time</key><integer>270001</integer>
+			<key>Date Modified</key><date>2013-04-14T11:40:01Z</date>
+			<key>Date Added</key><date>2013-04-14T11:50:25Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3452518164</integer>
+			<key>Play Date UTC</key><date>2013-05-27T13:49:24Z</date>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>EC231042E6082B44</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/Music/Metallica/Unknown%20Album/Until%20It%20Sleeps.wav</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>501</key>
+		<dict>
+			<key>Track ID</key><integer>501</integer>
+			<key>Name</key><string>Dirty Deeds Done Dirt Cheap</string>
+			<key>Artist</key><string>AC/DC</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>WAV audio file</string>
+			<key>Size</key><integer>40917790</integer>
+			<key>Total Time</key><integer>231960</integer>
+			<key>Date Modified</key><date>2013-04-14T12:33:55Z</date>
+			<key>Date Added</key><date>2013-04-14T12:35:48Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>25</integer>
+			<key>Play Date</key><integer>3456061946</integer>
+			<key>Play Date UTC</key><date>2013-07-07T14:12:26Z</date>
+			<key>Skip Count</key><integer>11</integer>
+			<key>Skip Date</key><date>2013-07-08T14:47:54Z</date>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>CF6D746DB63A469B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/Music/AC_DC/Unknown%20Album/Dirty%20Deeds%20Done%20Dirt%20Cheap.wav</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>503</key>
+		<dict>
+			<key>Track ID</key><integer>503</integer>
+			<key>Name</key><string>Hells Bells</string>
+			<key>Artist</key><string>AC/DC</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>WAV audio file</string>
+			<key>Size</key><integer>55107406</integer>
+			<key>Total Time</key><integer>312400</integer>
+			<key>Date Modified</key><date>2013-04-14T12:33:57Z</date>
+			<key>Date Added</key><date>2013-04-14T12:35:48Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>26</integer>
+			<key>Play Date</key><integer>3455891966</integer>
+			<key>Play Date UTC</key><date>2013-07-05T14:59:26Z</date>
+			<key>Skip Count</key><integer>12</integer>
+			<key>Skip Date</key><date>2013-06-27T16:31:53Z</date>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>68820BB9488AADBE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/Music/AC_DC/Unknown%20Album/Hells%20Bells.wav</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>505</key>
+		<dict>
+			<key>Track ID</key><integer>505</integer>
+			<key>Name</key><string>Let Me Put My Love Into You</string>
+			<key>Artist</key><string>AC/DC</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>WAV audio file</string>
+			<key>Size</key><integer>45036142</integer>
+			<key>Total Time</key><integer>255306</integer>
+			<key>Date Modified</key><date>2013-04-14T12:33:59Z</date>
+			<key>Date Added</key><date>2013-04-14T12:35:48Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>27</integer>
+			<key>Play Date</key><integer>3456150730</integer>
+			<key>Play Date UTC</key><date>2013-07-08T14:52:10Z</date>
+			<key>Skip Count</key><integer>9</integer>
+			<key>Skip Date</key><date>2013-06-27T16:32:04Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>D05D9EF0B2980E58</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/Music/AC_DC/Unknown%20Album/Let%20Me%20Put%20My%20Love%20Into%20You.wav</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>507</key>
+		<dict>
+			<key>Track ID</key><integer>507</integer>
+			<key>Name</key><string>Touch Too Much</string>
+			<key>Artist</key><string>AC/DC</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>WAV audio file</string>
+			<key>Size</key><integer>46969486</integer>
+			<key>Total Time</key><integer>266266</integer>
+			<key>Date Modified</key><date>2013-04-14T12:34:00Z</date>
+			<key>Date Added</key><date>2013-04-14T12:35:48Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>32</integer>
+			<key>Play Date</key><integer>3455877243</integer>
+			<key>Play Date UTC</key><date>2013-07-05T10:54:03Z</date>
+			<key>Skip Count</key><integer>8</integer>
+			<key>Skip Date</key><date>2013-07-06T07:04:44Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>254C9064AE0B3297</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/Music/AC_DC/Unknown%20Album/Touch%20Too%20Much.wav</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>509</key>
+		<dict>
+			<key>Track ID</key><integer>509</integer>
+			<key>Name</key><string>Whole Lotta Rosie</string>
+			<key>Artist</key><string>AC/DC</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>WAV audio file</string>
+			<key>Size</key><integer>58882366</integer>
+			<key>Total Time</key><integer>333800</integer>
+			<key>Date Modified</key><date>2013-04-14T12:34:02Z</date>
+			<key>Date Added</key><date>2013-04-14T12:35:48Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>31</integer>
+			<key>Play Date</key><integer>3455892555</integer>
+			<key>Play Date UTC</key><date>2013-07-05T15:09:15Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2013-06-09T17:39:44Z</date>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>5F7DC15AC8DB137A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/Music/AC_DC/Unknown%20Album/Whole%20Lotta%20Rosie.wav</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>511</key>
+		<dict>
+			<key>Track ID</key><integer>511</integer>
+			<key>Name</key><string>Somebody That I Used To Know</string>
+			<key>Artist</key><string>Gotye</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>WAV audio file</string>
+			<key>Size</key><integer>43199230</integer>
+			<key>Total Time</key><integer>244893</integer>
+			<key>Date Modified</key><date>2013-04-14T12:34:04Z</date>
+			<key>Date Added</key><date>2013-04-14T12:35:48Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3456062481</integer>
+			<key>Play Date UTC</key><date>2013-07-07T14:21:21Z</date>
+			<key>Persistent ID</key><string>0DDCC425EF192CAC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/Music/Gotye/Unknown%20Album/Somebody%20That%20I%20Used%20To%20Know.wav</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>513</key>
+		<dict>
+			<key>Track ID</key><integer>513</integer>
+			<key>Name</key><string>Imagine</string>
+			<key>Artist</key><string>John Lennon</string>
+			<key>Genre</key><string>Lifestyle</string>
+			<key>Kind</key><string>WAV audio file</string>
+			<key>Size</key><integer>32375934</integer>
+			<key>Total Time</key><integer>183536</integer>
+			<key>Date Modified</key><date>2013-04-14T12:34:36Z</date>
+			<key>Date Added</key><date>2013-04-14T12:35:48Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3456061714</integer>
+			<key>Play Date UTC</key><date>2013-07-07T14:08:34Z</date>
+			<key>Persistent ID</key><string>E8E04F0CE63C2CC4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/Music/John%20Lennon/Unknown%20Album/Imagine.wav</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>515</key>
+		<dict>
+			<key>Track ID</key><integer>515</integer>
+			<key>Name</key><string>Crawling</string>
+			<key>Artist</key><string>Linkin Park</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>WAV audio file</string>
+			<key>Size</key><integer>37225150</integer>
+			<key>Total Time</key><integer>211026</integer>
+			<key>Date Modified</key><date>2013-04-14T12:34:37Z</date>
+			<key>Date Added</key><date>2013-04-14T12:35:48Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>43406AB5BF1E4662</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/Music/Linkin%20Park/Unknown%20Album/Crawling.wav</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>517</key>
+		<dict>
+			<key>Track ID</key><integer>517</integer>
+			<key>Name</key><string>Rolling In The Deep (Adele Cover - Live)</string>
+			<key>Artist</key><string>Linkin Park</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8466304</integer>
+			<key>Total Time</key><integer>264504</integer>
+			<key>Date Modified</key><date>2012-10-24T13:58:03Z</date>
+			<key>Date Added</key><date>2013-04-14T12:35:48Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3455950161</integer>
+			<key>Play Date UTC</key><date>2013-07-06T07:09:21Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2013-07-06T07:04:50Z</date>
+			<key>Persistent ID</key><string>FB2EADF38FD1F634</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/Music/Linkin%20Park/Unknown%20Album/Rolling%20In%20The%20Deep%20(Adele%20Cover%20-%20L.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>519</key>
+		<dict>
+			<key>Track ID</key><integer>519</integer>
+			<key>Name</key><string>Promises</string>
+			<key>Artist</key><string>The Cranberries</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>WAV audio file</string>
+			<key>Size</key><integer>57786334</integer>
+			<key>Total Time</key><integer>327586</integer>
+			<key>Date Modified</key><date>2013-04-14T12:34:40Z</date>
+			<key>Date Added</key><date>2013-04-14T12:35:48Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3456060558</integer>
+			<key>Play Date UTC</key><date>2013-07-07T13:49:18Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2013-07-06T07:58:21Z</date>
+			<key>Sort Artist</key><string>Cranberries</string>
+			<key>Persistent ID</key><string>08A21362D723A7BC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/Music/The%20Cranberries/Unknown%20Album/Promises.wav</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>521</key>
+		<dict>
+			<key>Track ID</key><integer>521</integer>
+			<key>Name</key><string>Eye for an Eye</string>
+			<key>Artist</key><string>2pac ft 50Cent</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4306919</integer>
+			<key>Total Time</key><integer>179278</integer>
+			<key>Date Modified</key><date>2013-04-14T12:56:36Z</date>
+			<key>Date Added</key><date>2013-04-14T12:55:48Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3455952449</integer>
+			<key>Play Date UTC</key><date>2013-07-06T07:47:29Z</date>
+			<key>Persistent ID</key><string>EB9CF4D30FDAD2EC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/Music/2pac%20ft%2050Cent/Unknown%20Album/Eye%20for%20an%20Eye.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>523</key>
+		<dict>
+			<key>Track ID</key><integer>523</integer>
+			<key>Name</key><string>M'fer [ft. Wiz Khalifa]</string>
+			<key>Artist</key><string>Chevy Woods</string>
+			<key>Genre</key><string>Rap</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4085571</integer>
+			<key>Total Time</key><integer>169795</integer>
+			<key>Date Modified</key><date>2013-04-16T08:39:07Z</date>
+			<key>Date Added</key><date>2013-04-14T12:55:49Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3456145479</integer>
+			<key>Play Date UTC</key><date>2013-07-08T13:24:39Z</date>
+			<key>Persistent ID</key><string>075BEB57DBCBD1B3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/Music/Chevy%20Woods/Unknown%20Album/M'fer%20%5Bft.%20Wiz%20Khalifa%5D.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>525</key>
+		<dict>
+			<key>Track ID</key><integer>525</integer>
+			<key>Name</key><string>Molly [feat. Wiz Khalifa &#38; Mally Mall]</string>
+			<key>Artist</key><string>Tyga</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8776658</integer>
+			<key>Total Time</key><integer>219088</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2013-04-16T08:41:09Z</date>
+			<key>Date Added</key><date>2013-04-14T12:55:49Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>96449889BF92B25A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/Music/Tyga/Unknown%20Album/Molly%20%5Bfeat.%20Wiz%20Khalifa%20&#38;%20Mally%20Mal.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>527</key>
+		<dict>
+			<key>Track ID</key><integer>527</integer>
+			<key>Name</key><string>Taylor Gang [feat. Chevy Woods]</string>
+			<key>Artist</key><string>Wiz Khalifa</string>
+			<key>Genre</key><string>Rap</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>13990355</integer>
+			<key>Total Time</key><integer>334445</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2013-04-16T08:41:32Z</date>
+			<key>Date Added</key><date>2013-04-14T12:55:49Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>378AB94A6C12EF8D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/Music/Wiz%20Khalifa/Unknown%20Album/05%20Taylor%20Gang%20%5Bfeat.%20Chevy%20Woods%5D.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>529</key>
+		<dict>
+			<key>Track ID</key><integer>529</integer>
+			<key>Name</key><string>Reefer Party [feat. Chevy Woods &#38; Neako]</string>
+			<key>Artist</key><string>Wiz Khalifa</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7647232</integer>
+			<key>Total Time</key><integer>318563</integer>
+			<key>Date Modified</key><date>2013-04-16T08:43:17Z</date>
+			<key>Date Added</key><date>2013-04-14T12:55:49Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3451063821</integer>
+			<key>Play Date UTC</key><date>2013-05-10T17:50:21Z</date>
+			<key>Persistent ID</key><string>4EDF13ABF62DDF37</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/Music/Wiz%20Khalifa/Unknown%20Album/Reefer%20Party%20%5Bfeat.%20Chevy%20Woods%20&#38;%20Ne.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>531</key>
+		<dict>
+			<key>Track ID</key><integer>531</integer>
+			<key>Name</key><string>MIA [feat. Juicy J]</string>
+			<key>Artist</key><string>Wiz Khalifa</string>
+			<key>Genre</key><string>Rap</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6012928</integer>
+			<key>Total Time</key><integer>250488</integer>
+			<key>Date Modified</key><date>2013-04-16T08:41:59Z</date>
+			<key>Date Added</key><date>2013-04-14T12:55:49Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3455949878</integer>
+			<key>Play Date UTC</key><date>2013-07-06T07:04:38Z</date>
+			<key>Persistent ID</key><string>58DE0D8782093635</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/Music/Wiz%20Khalifa/Unknown%20Album/MIA%20%5Bfeat.%20Juicy%20J%5D.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>533</key>
+		<dict>
+			<key>Track ID</key><integer>533</integer>
+			<key>Name</key><string>For Those About to Rock (We</string>
+			<key>Artist</key><string>AC/DC</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>WAV audio file</string>
+			<key>Size</key><integer>82099158</integer>
+			<key>Total Time</key><integer>465413</integer>
+			<key>Date Modified</key><date>2013-04-14T13:44:27Z</date>
+			<key>Date Added</key><date>2013-04-16T07:43:45Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>18</integer>
+			<key>Play Date</key><integer>3455810286</integer>
+			<key>Play Date UTC</key><date>2013-07-04T16:18:06Z</date>
+			<key>Skip Count</key><integer>5</integer>
+			<key>Skip Date</key><date>2013-06-22T16:19:21Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>0BBF094BA09ED0B8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/Music/AC_DC/Unknown%20Album/For%20Those%20About%20to%20Rock%20(We.wav</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>535</key>
+		<dict>
+			<key>Track ID</key><integer>535</integer>
+			<key>Name</key><string>Let There Be Rock Bon Scott and Brian Johnson</string>
+			<key>Artist</key><string>AC/DC</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>13815668</integer>
+			<key>Total Time</key><integer>575634</integer>
+			<key>Date Modified</key><date>2013-04-16T07:45:48Z</date>
+			<key>Date Added</key><date>2013-04-16T07:43:45Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>15</integer>
+			<key>Play Date</key><integer>3456059311</integer>
+			<key>Play Date UTC</key><date>2013-07-07T13:28:31Z</date>
+			<key>Skip Count</key><integer>8</integer>
+			<key>Skip Date</key><date>2013-06-27T16:32:28Z</date>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>FB5BCD72B0EFB064</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/Music/AC_DC/Unknown%20Album/Let%20There%20Be%20Rock%20Bon%20Scott%20and%20Bria.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>537</key>
+		<dict>
+			<key>Track ID</key><integer>537</integer>
+			<key>Name</key><string>Ride Like The Wind</string>
+			<key>Artist</key><string>Michael Mind</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4684403</integer>
+			<key>Total Time</key><integer>172930</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2013-04-16T07:44:08Z</date>
+			<key>Date Added</key><date>2013-04-16T07:43:45Z</date>
+			<key>Bit Rate</key><integer>216</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>371F8B5078DD69CE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/Music/Michael%20Mind/Unknown%20Album/Ride%20Like%20The%20Wind.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>543</key>
+		<dict>
+			<key>Track ID</key><integer>543</integer>
+			<key>Name</key><string>Boogie Man</string>
+			<key>Artist</key><string>AC/DC</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>WAV audio file</string>
+			<key>Size</key><integer>43636868</integer>
+			<key>Total Time</key><integer>247373</integer>
+			<key>Date Modified</key><date>2012-12-07T10:18:48Z</date>
+			<key>Date Added</key><date>2013-06-21T14:20:28Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3456150467</integer>
+			<key>Play Date UTC</key><date>2013-07-08T14:47:47Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2013-06-27T16:32:08Z</date>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>C7BDC2237A19B85B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/Music/Unknown%20Artist/Unknown%20Album/AC-DC%20-%20Boogie%20Man.wav</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>545</key>
+		<dict>
+			<key>Track ID</key><integer>545</integer>
+			<key>Name</key><string>T.N.T.</string>
+			<key>Artist</key><string>AC/DC</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>WAV audio file</string>
+			<key>Size</key><integer>37890766</integer>
+			<key>Total Time</key><integer>214800</integer>
+			<key>Date Modified</key><date>2013-05-04T05:01:11Z</date>
+			<key>Date Added</key><date>2013-06-21T14:20:28Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3455876971</integer>
+			<key>Play Date UTC</key><date>2013-07-05T10:49:31Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2013-07-05T16:04:19Z</date>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>8DFE9973061F1203</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/Music/AC_DC/Unknown%20Album/T.N.T..wav</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>547</key>
+		<dict>
+			<key>Track ID</key><integer>547</integer>
+			<key>Name</key><string>Thunderstruck</string>
+			<key>Artist</key><string>AC/DC</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>WAV audio file</string>
+			<key>Size</key><integer>51664078</integer>
+			<key>Total Time</key><integer>292880</integer>
+			<key>Date Modified</key><date>2013-05-04T05:01:17Z</date>
+			<key>Date Added</key><date>2013-06-21T14:20:28Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3455875491</integer>
+			<key>Play Date UTC</key><date>2013-07-05T10:24:51Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2013-07-08T14:52:15Z</date>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>1F38CEE714F2AB7E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/Music/AC_DC/Unknown%20Album/Thunderstruck.wav</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Library</string>
+			<key>Master</key><true/>
+			<key>Playlist ID</key><integer>549</integer>
+			<key>Playlist Persistent ID</key><string>931750C711027315</string>
+			<key>Visible</key><false/>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>543</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>501</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>533</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>503</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>505</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>535</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>545</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>547</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>507</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>509</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>523</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>519</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>483</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>489</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>491</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>495</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>493</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>397</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>399</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>401</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>511</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>403</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>405</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>513</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>407</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>409</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>411</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>413</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>515</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>517</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>415</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>417</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>419</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>421</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>423</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>497</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>499</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>425</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>537</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>427</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>429</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>441</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>437</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>439</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>435</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>433</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>431</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>443</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>445</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>447</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>449</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>451</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>457</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>463</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>465</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>471</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>467</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>453</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>461</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>459</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>455</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>473</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>469</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>477</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>479</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>475</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>525</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>481</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>531</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>529</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>527</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>521</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>387</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>485</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>391</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>393</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>487</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>395</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>389</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key><string>Music</string>
+			<key>Playlist ID</key><integer>647</integer>
+			<key>Playlist Persistent ID</key><string>344E6F7B8D1D9879</string>
+			<key>Distinguished Kind</key><integer>4</integer>
+			<key>Music</key><true/>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>543</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>501</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>533</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>503</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>505</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>535</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>545</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>547</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>507</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>509</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>523</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>519</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>483</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>489</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>491</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>495</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>493</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>397</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>399</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>401</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>511</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>403</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>405</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>513</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>407</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>409</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>411</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>413</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>515</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>517</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>415</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>417</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>419</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>421</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>423</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>497</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>499</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>425</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>537</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>427</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>429</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>441</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>437</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>439</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>435</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>433</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>431</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>443</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>445</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>447</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>449</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>451</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>457</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>463</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>465</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>471</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>467</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>453</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>461</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>459</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>455</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>473</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>469</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>477</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>479</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>475</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>525</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>481</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>531</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>529</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>527</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>521</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>387</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>485</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>391</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>393</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>487</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>395</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>389</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key><string>Movies</string>
+			<key>Playlist ID</key><integer>729</integer>
+			<key>Playlist Persistent ID</key><string>9A5BBEFEF3B37321</string>
+			<key>Distinguished Kind</key><integer>2</integer>
+			<key>Movies</key><true/>
+			<key>All Items</key><true/>
+		</dict>
+		<dict>
+			<key>Name</key><string>TV Shows</string>
+			<key>Playlist ID</key><integer>732</integer>
+			<key>Playlist Persistent ID</key><string>169C8680194741C3</string>
+			<key>Distinguished Kind</key><integer>3</integer>
+			<key>TV Shows</key><true/>
+			<key>All Items</key><true/>
+		</dict>
+		<dict>
+			<key>Name</key><string>Books</string>
+			<key>Playlist ID</key><integer>735</integer>
+			<key>Playlist Persistent ID</key><string>E6086AC21B0A1A28</string>
+			<key>Distinguished Kind</key><integer>5</integer>
+			<key>Audiobooks</key><true/>
+			<key>Books</key><true/>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key><string>Purchased</string>
+			<key>Playlist ID</key><integer>822</integer>
+			<key>Playlist Persistent ID</key><string>882CAD1E91158B77</string>
+			<key>Distinguished Kind</key><integer>19</integer>
+			<key>Purchased Music</key><true/>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key><string>Running</string>
+			<key>Playlist ID</key><integer>827</integer>
+			<key>Playlist Persistent ID</key><string>4DFDB5FBCB40AE71</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>501</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>503</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>505</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>507</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>419</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>421</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>423</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>497</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>499</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>425</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>459</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>455</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>469</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>463</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>467</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>473</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>457</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>465</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>471</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>453</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>461</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

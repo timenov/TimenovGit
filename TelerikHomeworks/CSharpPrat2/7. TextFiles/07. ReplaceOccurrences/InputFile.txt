@@ -1,0 +1,31 @@
+using System;
+using System.IO;
+using System.Text;
+
+class ReplaceOccurrences
+{   start
+    static Encoding cyrillic = Encoding.GetEncoding("windows-1251");
+
+    static void Main()
+    {  start
+        try
+        {
+            using (StreamWriter output = new StreamWriter("../../FixedFile.txt", true, cyrillic))
+            {
+                using (StreamReader input = new StreamReader(@"../../InputFile.txt", cyrillic))
+                {
+                    while (!input.EndOfStream)
+                    {
+                        string line = input.ReadLine();
+                        line = line.Replace("start", "finish");
+                        output.WriteLine(line);
+                    }
+                }
+            }
+        } start
+        catch (IOException ioe)
+        {
+            Console.WriteLine(ioe.Message);
+        }
+    }
+}

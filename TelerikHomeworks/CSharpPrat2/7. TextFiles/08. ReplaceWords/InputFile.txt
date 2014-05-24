@@ -1,0 +1,32 @@
+using System;
+using System.IO;
+using System.Text;
+
+class ReplaceWords
+{
+    static Encoding cyrillic = Encoding.GetEncoding("windows-1251");
+start
+    static void Main()
+    {substart
+        try start
+        {
+            using (StreamWriter output = new StreamWriter("../../FixedFile.txt", true, cyrillic))
+            {
+                using (StreamReader input = new StreamReader(@"../../InputFile.txt", cyrillic))
+                {
+                    string regex = @"\bstart\b";
+                    while (!input.EndOfStream)
+                    {
+                        string line = input.ReadLine();
+                        line = line.Replace("start", "finish");
+                        output.WriteLine(line);
+                    }
+                }
+            }startsub
+        }
+        catch (IOException ioe)
+        {
+            Console.WriteLine(ioe.Message);
+        }
+    }start
+}
