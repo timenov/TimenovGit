@@ -1,0 +1,10 @@
+#js-console{
+	font-family: 'Lucida Console';
+    font-size: 12px;
+	background-color: black;
+    display: inline-block;
+    float: left;
+	color: white;
+	height: 480px;
+	width: 640px;	
+}
