@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>KineticJS</title>
+</head>
+<body>
+	<div id="kinetic-container"></div>
+	<script src="scripts/kinetic-v5.1.0.min.js"></script>
+	<script>
+		var stage = new Kinetic.Stage({
+			container: "kinetic-container",
+			width: 500,
+			height: 400,
+		});
+
+		var layer = new Kinetic.Layer();
+
+		var rect = new Kinetic.Circle({
+			x: 0,
+			y: 0,
+			radius: 150,
+			fill: '#f00',
+		});
+
+		layer.add(rect);
+		stage.add(layer);
+	</script>
+</body>
+</html>
